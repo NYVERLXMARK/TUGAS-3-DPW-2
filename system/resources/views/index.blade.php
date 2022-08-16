@@ -265,8 +265,7 @@
 						<div class="single-product">
 							<a href="/details"><img class="img-fluid" src="{{url('public')}}/img/m1.png" alt="">
 							<div class="product-details">
-								<h6>addidas New Hammer sole
-									for Sports person</h6></a>
+								<h6>MSI Raider GE77Hx 17.3" QHD 240Hz Gaming Laptop: Intel Core i7-12800HX RTX 3070 Ti 16GB DDR5 1TB NVMe SSD, Thunderbolt 4, USB-Type C, Cooler Boost 5, Win11 Pro: Dark Grey 12UHS-004</h6></a>
 								<div class="price">
 									<h6>$2,499.00</h6>
 									<h6 class="l-through">$2,799.00</h6>
@@ -298,8 +297,7 @@
 						<div class="single-product">
 							<a href="/details"><img class="img-fluid" src="{{url('public')}}/img/m1.png" alt="">
 							<div class="product-details">
-								<h6>addidas New Hammer sole
-									for Sports person</h6></a>
+								<h6>MSI Raider GE77Hx 17.3" QHD 240Hz Gaming Laptop: Intel Core i7-12800HX RTX 3070 Ti 16GB DDR5 1TB NVMe SSD, Thunderbolt 4, USB-Type C, Cooler Boost 5, Win11 Pro: Dark Grey 12UHS-004</h6></a>
 								<div class="price">
 									<h6>$2,499.00</h6>
 									<h6 class="l-through">$2,799.00</h6>
@@ -331,8 +329,7 @@
 						<div class="single-product">
 							<a href="/details"><img class="img-fluid" src="{{url('public')}}/img/m1.png" alt="">
 							<div class="product-details">
-								<h6>addidas New Hammer sole
-									for Sports person</h6></a>
+								<h6>MSI Raider GE77Hx 17.3" QHD 240Hz Gaming Laptop: Intel Core i7-12800HX RTX 3070 Ti 16GB DDR5 1TB NVMe SSD, Thunderbolt 4, USB-Type C, Cooler Boost 5, Win11 Pro: Dark Grey 12UHS-004</h6></a>
 								<div class="price">
 									<h6>$2,499.00</h6>
 									<h6 class="l-through">$2,799.00</h6>
@@ -363,41 +360,7 @@
 						<div class="single-product">
 							<a href="/details"><img class="img-fluid" src="{{url('public')}}/img/m1.png" alt="">
 							<div class="product-details">
-								<h6>addidas New Hammer sole
-									for Sports person</h6></a>
-								<div class="price">
-									<h6>$2,499.00</h6>
-									<h6 class="l-through">$2,799.00</h6>
-								</div>
-								<div class="prd-bottom">
-
-									<a href="" class="social-info">
-										<span class="ti-bag"></span>
-										<p class="hover-text">add to bag</p>
-									</a>
-									<a href="" class="social-info">
-										<span class="lnr lnr-heart"></span>
-										<p class="hover-text">Wishlist</p>
-									</a>
-									<a href="" class="social-info">
-										<span class="lnr lnr-sync"></span>
-										<p class="hover-text">compare</p>
-									</a>
-									<a href="" class="social-info">
-										<span class="lnr lnr-move"></span>
-										<p class="hover-text">view more</p>
-									</a>
-								</div>
-							</div>
-						</div>
-					</div>
-					<!-- single product -->
-					<div class="col-lg-3 col-md-6">
-						<div class="single-product">
-							<a href="/details"><img class="img-fluid" src="{{url('public')}}/img/m1.png" alt="">
-							<div class="product-details">
-								<h6>addidas New Hammer sole
-									for Sports person</h6></a>
+								<h6>MSI Raider GE77Hx 17.3" QHD 240Hz Gaming Laptop: Intel Core i7-12800HX RTX 3070 Ti 16GB DDR5 1TB NVMe SSD, Thunderbolt 4, USB-Type C, Cooler Boost 5, Win11 Pro: Dark Grey 12UHS-004</h6></a>
 								<div class="price">
 									<h6>$2,499.00</h6>
 									<h6 class="l-through">$2,799.00</h6>
@@ -429,8 +392,7 @@
 						<div class="single-product">
 							<a href="/details"><img class="img-fluid" src="{{url('public')}}/img/m1.png" alt="">
 							<div class="product-details">
-								<h6>addidas New Hammer sole
-									for Sports person</h6></a>
+								<h6>MSI Raider GE77Hx 17.3" QHD 240Hz Gaming Laptop: Intel Core i7-12800HX RTX 3070 Ti 16GB DDR5 1TB NVMe SSD, Thunderbolt 4, USB-Type C, Cooler Boost 5, Win11 Pro: Dark Grey 12UHS-004</h6></a>
 								<div class="price">
 									<h6>$2,499.00</h6>
 									<h6 class="l-through">$2,799.00</h6>
@@ -462,8 +424,7 @@
 						<div class="single-product">
 							<a href="/details"><img class="img-fluid" src="{{url('public')}}/img/m1.png" alt="">
 							<div class="product-details">
-								<h6>addidas New Hammer sole
-									for Sports person</h6></a>
+								<h6>MSI Raider GE77Hx 17.3" QHD 240Hz Gaming Laptop: Intel Core i7-12800HX RTX 3070 Ti 16GB DDR5 1TB NVMe SSD, Thunderbolt 4, USB-Type C, Cooler Boost 5, Win11 Pro: Dark Grey 12UHS-004</h6></a>
 								<div class="price">
 									<h6>$2,499.00</h6>
 									<h6 class="l-through">$2,799.00</h6>
@@ -495,8 +456,39 @@
 						<div class="single-product">
 							<a href="/details"><img class="img-fluid" src="{{url('public')}}/img/m1.png" alt="">
 							<div class="product-details">
-								<h6>addidas New Hammer sole
-									for Sports person</h6></a>
+								<h6>MSI Raider GE77Hx 17.3" QHD 240Hz Gaming Laptop: Intel Core i7-12800HX RTX 3070 Ti 16GB DDR5 1TB NVMe SSD, Thunderbolt 4, USB-Type C, Cooler Boost 5, Win11 Pro: Dark Grey 12UHS-004</h6></a>
+								<div class="price">
+									<h6>$2,499.00</h6>
+									<h6 class="l-through">$2,799.00</h6>
+								</div>
+								<div class="prd-bottom">
+
+									<a href="" class="social-info">
+										<span class="ti-bag"></span>
+										<p class="hover-text">add to bag</p>
+									</a>
+									<a href="" class="social-info">
+										<span class="lnr lnr-heart"></span>
+										<p class="hover-text">Wishlist</p>
+									</a>
+									<a href="" class="social-info">
+										<span class="lnr lnr-sync"></span>
+										<p class="hover-text">compare</p>
+									</a>
+									<a href="" class="social-info">
+										<span class="lnr lnr-move"></span>
+										<p class="hover-text">view more</p>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- single product -->
+					<div class="col-lg-3 col-md-6">
+						<div class="single-product">
+							<a href="/details"><img class="img-fluid" src="{{url('public')}}/img/m1.png" alt="">
+							<div class="product-details">
+								<h6>MSI Raider GE77Hx 17.3" QHD 240Hz Gaming Laptop: Intel Core i7-12800HX RTX 3070 Ti 16GB DDR5 1TB NVMe SSD, Thunderbolt 4, USB-Type C, Cooler Boost 5, Win11 Pro: Dark Grey 12UHS-004</h6></a>
 								<div class="price">
 									<h6>$2,499.00</h6>
 									<h6 class="l-through">$2,799.00</h6>
@@ -545,8 +537,7 @@
 						<div class="single-product">
 							<a href="/details"><img class="img-fluid" src="{{url('public')}}/img/m1.png" alt="">
 							<div class="product-details">
-								<h6>addidas New Hammer sole
-									for Sports person</h6></a>
+								<h6>MSI Raider GE77Hx 17.3" QHD 240Hz Gaming Laptop: Intel Core i7-12800HX RTX 3070 Ti 16GB DDR5 1TB NVMe SSD, Thunderbolt 4, USB-Type C, Cooler Boost 5, Win11 Pro: Dark Grey 12UHS-004</h6></a>
 								<div class="price">
 									<h6>$2,499.00</h6>
 									<h6 class="l-through">$2,799.00</h6>
@@ -578,8 +569,7 @@
 						<div class="single-product">
 							<a href="/details"><img class="img-fluid" src="{{url('public')}}/img/m1.png" alt="">
 							<div class="product-details">
-								<h6>addidas New Hammer sole
-									for Sports person</h6></a>
+								<h6>MSI Raider GE77Hx 17.3" QHD 240Hz Gaming Laptop: Intel Core i7-12800HX RTX 3070 Ti 16GB DDR5 1TB NVMe SSD, Thunderbolt 4, USB-Type C, Cooler Boost 5, Win11 Pro: Dark Grey 12UHS-004</h6></a>
 								<div class="price">
 									<h6>$2,499.00</h6>
 									<h6 class="l-through">$2,799.00</h6>
@@ -611,8 +601,7 @@
 						<div class="single-product">
 							<a href="/details"><img class="img-fluid" src="{{url('public')}}/img/m1.png" alt="">
 							<div class="product-details">
-								<h6>addidas New Hammer sole
-									for Sports person</h6></a>
+								<h6>MSI Raider GE77Hx 17.3" QHD 240Hz Gaming Laptop: Intel Core i7-12800HX RTX 3070 Ti 16GB DDR5 1TB NVMe SSD, Thunderbolt 4, USB-Type C, Cooler Boost 5, Win11 Pro: Dark Grey 12UHS-004</h6></a>
 								<div class="price">
 									<h6>$2,499.00</h6>
 									<h6 class="l-through">$2,799.00</h6>
@@ -644,8 +633,7 @@
 						<div class="single-product">
 							<a href="/details"><img class="img-fluid" src="{{url('public')}}/img/m1.png" alt="">
 							<div class="product-details">
-								<h6>addidas New Hammer sole
-									for Sports person</h6></a>
+								<h6>MSI Raider GE77Hx 17.3" QHD 240Hz Gaming Laptop: Intel Core i7-12800HX RTX 3070 Ti 16GB DDR5 1TB NVMe SSD, Thunderbolt 4, USB-Type C, Cooler Boost 5, Win11 Pro: Dark Grey 12UHS-004</h6></a>
 								<div class="price">
 									<h6>$2,499.00</h6>
 									<h6 class="l-through">$2,799.00</h6>
@@ -677,8 +665,7 @@
 						<div class="single-product">
 							<a href="/details"><img class="img-fluid" src="{{url('public')}}/img/m1.png" alt="">
 							<div class="product-details">
-								<h6>addidas New Hammer sole
-									for Sports person</h6></a>
+								<h6>MSI Raider GE77Hx 17.3" QHD 240Hz Gaming Laptop: Intel Core i7-12800HX RTX 3070 Ti 16GB DDR5 1TB NVMe SSD, Thunderbolt 4, USB-Type C, Cooler Boost 5, Win11 Pro: Dark Grey 12UHS-004</h6></a>
 								<div class="price">
 									<h6>$2,499.00</h6>
 									<h6 class="l-through">$2,799.00</h6>
@@ -710,8 +697,7 @@
 						<div class="single-product">
 							<a href="/details"><img class="img-fluid" src="{{url('public')}}/img/m1.png" alt="">
 							<div class="product-details">
-								<h6>addidas New Hammer sole
-									for Sports person</h6></a>
+								<h6>MSI Raider GE77Hx 17.3" QHD 240Hz Gaming Laptop: Intel Core i7-12800HX RTX 3070 Ti 16GB DDR5 1TB NVMe SSD, Thunderbolt 4, USB-Type C, Cooler Boost 5, Win11 Pro: Dark Grey 12UHS-004</h6></a>
 								<div class="price">
 									<h6>$2,499.00</h6>
 									<h6 class="l-through">$2,799.00</h6>
@@ -743,8 +729,7 @@
 						<div class="single-product">
 							<a href="/details"><img class="img-fluid" src="{{url('public')}}/img/m1.png" alt="">
 							<div class="product-details">
-								<h6>addidas New Hammer sole
-									for Sports person</h6></a>
+								<h6>MSI Raider GE77Hx 17.3" QHD 240Hz Gaming Laptop: Intel Core i7-12800HX RTX 3070 Ti 16GB DDR5 1TB NVMe SSD, Thunderbolt 4, USB-Type C, Cooler Boost 5, Win11 Pro: Dark Grey 12UHS-004</h6></a>
 								<div class="price">
 									<h6>$2,499.00</h6>
 									<h6 class="l-through">$2,799.00</h6>
@@ -776,8 +761,7 @@
 						<div class="single-product">
 							<a href="/details"><img class="img-fluid" src="{{url('public')}}/img/m1.png" alt="">
 							<div class="product-details">
-								<h6>addidas New Hammer sole
-									for Sports person</h6></a>
+								<h6>MSI Raider GE77Hx 17.3" QHD 240Hz Gaming Laptop: Intel Core i7-12800HX RTX 3070 Ti 16GB DDR5 1TB NVMe SSD, Thunderbolt 4, USB-Type C, Cooler Boost 5, Win11 Pro: Dark Grey 12UHS-004</h6></a>
 								<div class="price">
 									<h6>$2,499.00</h6>
 									<h6 class="l-through">$2,799.00</h6>
